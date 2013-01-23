@@ -3,10 +3,10 @@
     <string name="app_name">support-colorpicker</string>
     <string name="recent_colors_expanded">Recently chosen colors</string>
     <string name="recent_colors_empty">There are no recently chosen colors.</string>
-    <string name="recent_colors_clear_history">Clear</string>
+    <string name="recent_colors_clear_history">Czysc historie</string>
     <string name="ok">Ok</string>
-    <string name="cancel">Cancel</string>
-    <string name="restore">Restore</string>
+    <string name="cancel">Anuluj</string>
+    <string name="restore">Przywroc</string>
     <string name="pick_color">Pick Color</string>
     <string name="pick_color_alpha_title">Alpha: %d%%</string>
     <string name="time_second">%1$dSeconds</string>
@@ -15,8 +15,8 @@
     <string name="env_upgrade_checkUrlPattern" formatted="false">http://upgrade.mobile.360.cn/versions/%s/%s/upgrade?imei=%s&amp;channel=%s&amp;theme=%s</string>
     <string name="theme_online_url_prefix">http://theme.mobile.360.cn</string>
     <string name="widget_error_text">Error when loading windows</string>
-    <string name="widget_loading_text">Widget Loading</string>
-    <string name="more_menu_item">More</string>
+    <string name="widget_loading_text">Ladowanie Widzetu</string>
+    <string name="more_menu_item">Wiecej</string>
     <string name="uninstall_system_app_alert">Uninstall Fail</string>
     <string name="uninstall_app_not_exist_alert">App do not exist, failed to uninstall</string>
     <string name="theme_name_default">Default</string>
