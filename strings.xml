@@ -2,11 +2,11 @@
 <resources>
     <string name="app_name">support-colorpicker</string>
     <string name="recent_colors_expanded">Często wybierane kolory</string>
-    <string name="recent_colors_empty">There are no recently chosen colors.</string>
-    <string name="recent_colors_clear_history">Clear</string>
+    <string name="recent_colors_empty">Brak często wybieranych kolorów.</string>
+    <string name="recent_colors_clear_history">Wyczyść</string>
     <string name="ok">Ok</string>
-    <string name="cancel">Cancel</string>
-    <string name="restore">Restore</string>
+    <string name="cancel">Anuluj</string>
+    <string name="restore">Przywróć</string>
     <string name="pick_color">Pick Color</string>
     <string name="pick_color_alpha_title">Alpha: %d%%</string>
     <string name="time_second">%1$dSeconds</string>
