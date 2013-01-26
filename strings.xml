@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">support-colorpicker</string>
-    <string name="recent_colors_expanded">Recently chosen colors</string>
+    <string name="recent_colors_expanded">Często wybierane kolory</string>
     <string name="recent_colors_empty">There are no recently chosen colors.</string>
     <string name="recent_colors_clear_history">Clear</string>
     <string name="ok">Ok</string>
