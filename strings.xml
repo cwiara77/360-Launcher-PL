@@ -16,7 +16,7 @@
     <string name="theme_online_url_prefix">http://theme.mobile.360.cn</string>
     <string name="widget_error_text">Error when loading windows</string>
     <string name="widget_loading_text">Widget Loading</string>
-    <string name="more_menu_item">More</string>
+    <string name="more_menu_item">Więcej</string>
     <string name="uninstall_system_app_alert">Uninstall Fail</string>
     <string name="uninstall_app_not_exist_alert">App do not exist, failed to uninstall</string>
     <string name="theme_name_default">Default</string>
@@ -31,12 +31,12 @@
     <string name="online_themetype_clockweatherskin">Clock Weather Skin</string>
     <string name="theme_upgrade">Upgrade</string>
     <string name="theme_install">Install</string>
-    <string name="theme_downloading">Downloading</string>
-    <string name="clockweather_default_cityname">北京</string>
+    <string name="theme_downloading">Pobieranie</string>
+    <string name="clockweather_default_cityname">Domyślnie</string>
     <string name="clockweather_details_name">Weather Details</string>
-    <string name="weather_detail_error_text">No weather data</string>
+    <string name="weather_detail_error_text">Brak danych pogodowych</string>
     <string name="weather_detail_no_msg_text">--</string>
-    <string name="clockweather_switch_city_name">Choose City</string>
+    <string name="clockweather_switch_city_name">Wybierz miasto</string>
     <string name="clockweather_weatherUpdating">Updating...</string>
     <string name="clockweather_cityUpdating">Loading...</string>
     <string name="clockweather_noAlarmClockFound">Did not find Alarm</string>
